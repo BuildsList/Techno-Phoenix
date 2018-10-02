@@ -55,8 +55,6 @@
 												/datum/species/skrell            = 12,
 												/datum/species/tajaran           = 7,
 												/datum/species/unathi            = 7,
-												/datum/species/machine           = 7,
-												///datum/species/diona             = 5
 											)
 
 //---- The following corporations are friendly with Kaiserliche Kolonialgenung and loosely enable trade and travel:
