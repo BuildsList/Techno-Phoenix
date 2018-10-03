@@ -47,7 +47,7 @@
 
 /datum/uplink_item/item/visible_weapons/energy_gun
 	name = "Energy Gun"
-	item_cost = 32
+	item_cost = 8
 	path = /obj/item/weapon/gun/energy/gun
 
 /datum/uplink_item/item/visible_weapons/grenade_launcher
@@ -71,7 +71,7 @@
 
 /datum/uplink_item/item/visible_weapons/advanced_energy_gun
 	name = "Advanced Energy Gun"
-	item_cost = 60
+	item_cost = 15
 	path = /obj/item/weapon/gun/energy/gun/nuclear
 
 /datum/uplink_item/item/visible_weapons/heavysniper
